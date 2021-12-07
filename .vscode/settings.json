@@ -1,5 +1,4 @@
 {
-    "cSpell.words": [
-        "webfonts"
-    ]
+  "cSpell.words": ["webfonts"],
+  "cSpell.ignoreWords": ["browserslist"]
 }
